@@ -3,17 +3,17 @@
 - id: table_of_contents
   translation: Mục Lục
 - id: on_this_page
-  translation: On this page
+  translation: Trên trang này
 - id: back_to_top
-  translation: Back to top
+  translation: Trở lại đầu trang
 - id: related
   translation: Bài Liên Quan
 - id: minute_read
   translation: phút để đọc
 - id: previous
-  translation: Trước
+  translation: Bài Trước
 - id: next
-  translation: Sau
+  translation: Bài Sau
 - id: figure
   translation: 'Figure %d:'
 - id: btn_preprint
@@ -23,9 +23,9 @@
 - id: btn_cite
   translation: Trích Dẫn
 - id: btn_slides
-  translation: Slides
+  translation: Trang trình diện (slide)
 - id: btn_video
-  translation: Video
+  translation: Bàn ảnh video
 - id: btn_code
   translation: Mã Nguồn
 - id: btn_dataset
@@ -33,7 +33,7 @@
 - id: btn_project
   translation: Dự Án
 - id: btn_poster
-  translation: Poster
+  translation: Trang Poster
 - id: btn_source
   translation: Mã Nguồn
 - id: btn_copy
@@ -43,31 +43,31 @@
 - id: interests
   translation: Hướng Nghiên Cứu
 - id: education
-  translation: Học Vấn
+  translation: Giáo dục
 - id: user_profile_latest
-  translation: Latest
+  translation: Câp nhật danh tính người sử dụng
 - id: see_certificate
-  translation: See certificate
+  translation: Xem thẻ chứng minh (certificate)
 - id: present
-  translation: Present
+  translation: Hiện tại
 - id: more_pages
-  translation: See all
+  translation: Thêm trang khác
 - id: more_posts
-  translation: Bài Đăng Khác
+  translation: Thêm bài Đăng Khác
 - id: more_talks
-  translation: Thuyết Trình Khác
+  translation: Thêm Thuyết Trình Khác
 - id: more_publications
-  translation: Các Công Trình
+  translation: Thêm Công Trình đăng
 - id: contact_name
-  translation: Name
+  translation: Tên người liên lạc
 - id: contact_email
-  translation: Email
+  translation: Email người liên lạc
 - id: contact_message
-  translation: Message
+  translation: Bản cáo cho người liên lạc
 - id: contact_send
-  translation: Send
+  translation: Gởi cho người liên lạc
 - id: book_appointment
-  translation: Book an appointment
+  translation: Ghi thời điểm đăng ký
 - id: abstract
   translation: Tóm tắt
 - id: publication
@@ -75,7 +75,7 @@
 - id: publication_type
   translation: Phân Loại
 - id: date
-  translation: Thời Gian
+  translation: Thời điểm
 - id: last_updated
   translation: Cập Nhật Lần Cuối
 - id: event
@@ -83,48 +83,48 @@
 - id: location
   translation: Địa Điểm
 - id: pub_uncat
-  translation: Uncategorized
+  translation: Phân loại chưa cố định
 - id: pub_conf
-  translation: Conference paper
+  translation: Văn bản thuyết trình
 - id: pub_journal
-  translation: Journal article
+  translation: Nhật ký bài đăng
 - id: pub_preprint
-  translation: Preprint
+  translation: Bản thảo
 - id: pub_report
-  translation: Report
+  translation: Văn bản báo cáo
 - id: pub_book
-  translation: Book
+  translation: Sách đăng
 - id: pub_book_section
-  translation: Book section
+  translation: Một thiên của Sách đăng
 - id: pub_thesis
-  translation: Thesis
+  translation: Các luân án TS
 - id: pub_patent
   translation: Patent
 - id: open_project_site
-  translation: Đến Trang Dự Án
+  translation: Mở Trang Dự Án
 - id: posts
-  translation: Bài Đăng
+  translation: Các bài Đăng
 - id: publications
-  translation: Công Trình
+  translation: Các công Trình
 - id: talks
-  translation: Thuyết Trình
+  translation: Các thuyết Trình
 - id: projects
-  translation: Dự Án
+  translation: Các dự Án
 - id: search
-  translation: Search
+  translation: Tìm kiếm
 - id: search_placeholder
-  translation: Search...
+  translation: Chỗ dành cho tìm kiếm ...
 - id: search_results
-  translation: results found
+  translation: Kết quả tìm thấy
 - id: search_no_results
-  translation: No results found
+  translation: Tìm không kết quả
 - id: page_not_found
-  translation: Trang không tìm thấy
+  translation: Trang tìm kg thấy
 - id: 404_recommendations
-  translation: Có thể bạn đang tìm những trang này
+  translation: 404_Có thể bạn đang tìm những trang này
 - id: cookie_message
-  translation: This website uses cookies to ensure you get the best experience on our website.
+  translation: Thông tin cookie 
 - id: cookie_dismiss
-  translation: Got it!
+  translation: Bãi cookie !
 - id: cookie_learn
-  translation: Learn more
+  translation: Học cookie
